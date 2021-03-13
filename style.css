@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #6b011f;
+}
+
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    color: #ffd880;
+    
+   
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #ffd880; 
+    font-weight: normal;
+    padding-bottom: 10px;
+     
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #290149;
+    
+}
+
+.intro{
+     width: 30%;
+     margin: auto;
+}
+
+
+.top-container{
+    background-color: #f14668;
+    position: relative;
+    padding-top: 100px;
+
+   
+}
+
+.middle-container{
+    margin: 100px 0 ;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 330px;
+    bottom: 300px;
+
+
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container{
+    background-color:#f14668;
+    padding: 50px 0 20px 0;
+    
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Arial;
+    color: #6b011f;
+    font-size: 21px;
+    background: #ffd880;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #f5b74c;
+    text-decoration: none;
+  }
+hr{
+    border: dotted #290149  6px ;
+    border-bottom: none;
+    width: 4px;
+    margin: 100px auto;
+}
+p{
+    line-height: 2;
+}
+
+.top-cloud{
+    position:absolute;
+    right: 310px;
+    top: 50px;
+  
+}
+.copywrite{
+    color: white;
+    padding: 20px 0;
+}
+
+a:hover{
+    color: darkred;
+}
+
+a{
+    color: #290149;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.java-image{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+.web{
+    width: 35%;
+    margin-left: 30px;
+    float: right;
+}
